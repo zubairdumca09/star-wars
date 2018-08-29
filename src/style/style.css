@@ -1,0 +1,15 @@
+footer{
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+.login-box{
+  display: flex;
+  padding: 40px 0;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #D6D6D6;
+}
+.d-flex{
+  display: flex;
+}
